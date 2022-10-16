@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Derma</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <h3 align="left">Frontend:</h3>
@@ -33,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielderma&show_icons=true&locale=en" alt="daniel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielderma&" alt="daniel" /></p>
-# danielderma
