@@ -29,7 +29,6 @@
   <img align="center" alt="postgresql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   
   <img align="center" alt="mongodb" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  
-  <img align="center" alt="amazonwebservices" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
 ### Mobile
