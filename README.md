@@ -7,7 +7,7 @@
 </div>
   
 
-### Frontend
+### Technologies
 <div style="display: inline-block">
   <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,21 +19,11 @@
   <img align="center" alt="nextjs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   
   <img align="center" alt="tailwindcss" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  
-</div>
-
-### Backend, Database and Cloud
-<div style="display: inline-block">
   <img align="center" alt="firebase" height="30" width="30" src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png">
   <img align="center" alt="gcp" height="30" width="30" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png">  
   <img align="center" alt="postgresql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   
-  <img align="center" alt="mongodb" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  
-</div>
-
-### Mobile
-<div style="display: inline-block"> 
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="mongodb" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">    
   <img align="center" alt="expo" height="30" width="30" src="https://cdn-images-1.medium.com/max/1200/1*X-fapKtVHxMoxieIA7aKCg.png">
 </div>
 
